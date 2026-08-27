@@ -26,17 +26,12 @@
   <a class="nav" href="index.html" style="color:var(--text);text-decoration:none"><img src="assets/icon.png" alt=""> Nana's House</a>
 
   <h1>Privacy Policy</h1>
-  <p class="muted">Last updated: 27 August 2026</p>
+  <p class="muted">Last updated: 22 July 2026</p>
 
-  <div class="lead"><strong>Nana's House does not collect any personal data.</strong> There are no accounts, no advertising, and no tracking of you across apps or websites. The game plays fully offline. The one thing it does send is anonymous usage &mdash; described below &mdash; and it carries nothing that identifies you.</div>
+  <div class="lead"><strong>Nana's House does not collect any personal data.</strong> There are no accounts, no analytics, no advertising, and no third-party tracking SDKs of any kind. The game plays fully offline.</div>
 
   <h2>What we store</h2>
   <p>Everything Nana's House saves stays <strong>on your device</strong> (and, if you're signed in to iCloud, syncs privately through Apple's iCloud key&#8209;value storage so your progress follows you between your own devices). This includes your chapter progress and memories collected, your unlocked-purchase status, and your language and accessibility preferences. We have no server, no account system, and no way to read any of it ourselves.</p>
-
-  <h2>Anonymous usage</h2>
-  <p>So we can tell which parts of the house people actually reach, the app reports a few <strong>anonymous</strong> events through Google Analytics for Firebase: that a chapter was finished, that a close&#8209;up shelf level was solved, and that the Daily Visit was opened. Each carries only a chapter or level <em>number</em>.</p>
-  <p>It never sends your name, email, contacts, photos, location, or anything you typed, heard, or own. We do not set any user ID, so nothing is tied to you. The app is built without Apple's advertising identifier (IDFA) &mdash; that code is not even included &mdash; so it cannot track you across other apps or websites, and it never shows a tracking&#8209;permission prompt. Ad&#8209;related data collection is switched off before the first event is sent.</p>
-  <p>Events are stored on your device and sent when there is a connection, so the game still plays completely offline.</p>
 
   <h2>No accounts, no sign-up</h2>
   <p>You can play the entire game, including the free chapters and the one&#8209;time unlock, without creating an account or giving us your name, email, contacts, photos, or location.</p>
